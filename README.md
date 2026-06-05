@@ -3,7 +3,7 @@
 <br/>
 
 <!-- MONOGRAM -->
-<img src="(https://github.com/Antarik-co/.github/blob/main/Monogram%20Dark%20BG.png)" />
+<img src="https://raw.githubusercontent.com/antarik-co/.github/main/Monogram_Dark_BG.png" height="88" alt="ANTARIK" />
 
 <br/><br/>
 
